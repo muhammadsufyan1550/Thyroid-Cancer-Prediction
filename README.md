@@ -26,7 +26,7 @@ The dataset used for this project contains information about various features re
 ## Usage
 1. **Clone the repository**:
      ```
-     https://github.com/muhammadsufyan1550/Thyroid-Cancer-Prediction.git
+     https://github.com/muhammadsufyan1550/Thyroid-Cancer-Recurrence-Prediction.git
      ```
 
 2. **Install the required dependencies**:
